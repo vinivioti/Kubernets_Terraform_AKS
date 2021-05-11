@@ -14,7 +14,7 @@ Subir dois pods, nginx e mysql, mapeando a porta 80 do nginx para acesso externo
 
 > Passo a passo
 > 
-'''
+```
 
 Baixar o código no github https://github.com/vinivioti/Kubernets_Terraform_AKS.git
 abra o Visual Code na pasta do projeto
@@ -26,5 +26,5 @@ Execute o comando:$ az aks get-credentials --resource-group rs_Leonardo_Vinissiu
 Execute o comando:$ kubectl get nodes
 Execute o comando:$ kubectl apply -f .\pods\
 
-'''
+```
 
