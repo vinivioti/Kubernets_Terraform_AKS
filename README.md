@@ -3,9 +3,7 @@ Quarta atividade do curso Infrastructure and Cloud Computing
 
 Professor: João Victorino
 
-## Alunos:
-
-Leonardo Ananias do Nascimento Azogue
+## Aluno:
 
 Vinissius Vioti dos Santos
 
